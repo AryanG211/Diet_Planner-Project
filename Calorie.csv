@@ -1,0 +1,1958 @@
+FoodItem,FoodCategory,Calorie
+Applesauce,Veg,62
+Canned Apricots,Veg,48
+Canned Blackberries,Veg,92
+Canned Blueberries,Veg,88
+Canned Cherries,Veg,54
+Canned Cranberries,Veg,178
+Canned Crushed Pineapple,Veg,53
+Canned Figs,Veg,107
+Canned Fruit Cocktail,Veg,81
+Canned Fruit Salad,Veg,50
+Canned Gooseberries,Veg,73
+Canned Grapefruit,Veg,37
+Canned Grapes,Veg,76
+Canned Mandarin Oranges,Veg,71
+Canned Mango,Veg,65
+Canned Mangosteen,Veg,73
+Canned Mixed Fruit,Veg,71
+Canned Morello Cherries,Veg,81
+Canned Oranges,Veg,62
+Canned Peaches,Veg,54
+Canned Pears,Veg,35
+Canned Pineapple,Veg,60
+Canned Plums,Veg,58
+Canned Raspberries,Veg,91
+Canned Sliced Pineapple,Veg,53
+Canned Sour Cherries,Veg,114
+Canned Strawberries,Veg,92
+Canned Tangerines,Veg,61
+Dried Fruit,Veg,243
+Acai,Veg,70
+Apple,Veg,52
+Applesauce,Veg,68
+Apricot,Veg,48
+Avocado,Veg,160
+Banana,Veg,89
+Blackberries,Veg,43
+Blood Oranges,Veg,50
+Blueberries,Veg,57
+Cantaloupe,Veg,34
+Cherries,Veg,50
+Clementine,Veg,47
+Cranberries,Veg,46
+Currants,Veg,56
+Custard Apple,Veg,101
+Dates,Veg,282
+Figs,Veg,74
+Fruit salad,Veg,50
+Grapes,Veg,69
+Greengage,Veg,41
+Guava,Veg,68
+Jackfruit,Veg,95
+Jujube,Veg,79
+Kiwi,Veg,61
+Lemon,Veg,29
+Lime,Veg,30
+Lychees,Veg,66
+Mandarin Oranges,Veg,53
+Mango,Veg,60
+Minneola,Veg,64
+Mulberries,Veg,43
+Nectarine,Veg,44
+Olives,Veg,115
+Orange,Veg,47
+Papaya,Veg,43
+Passion Fruit,Veg,97
+Peach,Veg,39
+Pear,Veg,57
+Persimmon,Veg,127
+Physalis,Veg,49
+Pineapple,Veg,50
+Plantains,Veg,122
+Plum,Veg,46
+Pomegranate,Veg,83
+Quince,Veg,57
+Raisins,Veg,299
+Rambutan,Veg,82
+Raspberries,Veg,52
+Rhubarb,Veg,21
+Starfruit,Veg,31
+Strawberries,Veg,32
+Tamarind,Veg,239
+Tangerine,Veg,53
+Watermelon,Veg,30
+Acerola,Veg,32
+Asian Pear,Veg,42
+Avocado,Veg,160
+Banana,Veg,89
+Breadfruit,Veg,103
+Cantaloupe Melon,Veg,34
+Casaba Melon,Veg,28
+Cherimoya,Veg,75
+Dragon Fruit,Veg,60
+Durian,Veg,147
+Feijoa,Veg,55
+Galia Melon,Veg,23
+Grapefruit,Veg,42
+Guava,Veg,68
+Honeydew,Veg,36
+Jackfruit,Veg,95
+Kiwi,Veg,61
+Kumquat,Veg,71
+Lychee,Veg,66
+Mandarin Oranges,Veg,53
+Mango,Veg,60
+Mangosteen,Veg,73
+Maracuya,Veg,97
+Maraschino Cherries,Veg,165
+Muskmelon,Veg,34
+Noni,Veg,53
+Passion Fruit,Veg,97
+Pineapple,Veg,50
+Pink Grapefruit,Veg,42
+Plantain,Veg,122
+Pomegranate,Veg,83
+Pomelo,Veg,38
+Prickly Pear,Veg,41
+Rambutan,Veg,82
+Sapodilla,Veg,83
+Soursop Fruit,Veg,66
+Star Fruit,Veg,31
+Tamarind,Veg,239
+Watermelon,Veg,30
+All-blue Potatoes,Veg,61
+Baked Potato,Veg,93
+Boiled Potatoes,Veg,87
+Cassava,Veg,160
+Croquettes,Veg,127
+Dumpling Dough,Veg,124
+Dumplings,Veg,124
+French Fingerling Potatoes,Veg,82
+French Fries,Veg,312
+Fried Potatoes,Veg,312
+Gnocchi,Veg,133
+Japanese Sweet Potatoes,Veg,87
+Marrow Dumplings,Veg,424
+Mashed Potatoes,Veg,89
+Norland Red Potatoes,Veg,89
+Omelette,Veg,154
+Potato,Veg,77
+Potato Dumpling,Veg,124
+Potato Fritter,Veg,185
+Potato Gratin,Veg,132
+Potato Pancakes,Veg,268
+Potato Salad,Veg,143
+Potato Starch,Veg,331
+Potato Sticks,Veg,522
+Potato Waffles,Veg,167
+Potato Wedges,Veg,123
+Potatoes au Gratin,Veg,132
+Purple Majesty Potatoes,Veg,72
+Red Gold Potatoes,Veg,89
+Red Potatoes,Veg,89
+Roast Potatoes,Veg,149
+Rosemary Potatoes,Veg,93
+Rösti,Veg,138
+Russet Potatoes,Veg,97
+Russian Banana Potatoes,Veg,67
+Sweet Potato,Veg,92
+White Potatoes,Veg,94
+Yams,Veg,116
+Yukon Gold Potatoes,Veg,82
+Artichoke,Veg,47
+Arugula,Veg,25
+Asparagus,Veg,20
+Aubergine,Veg,25
+Beetroot,Veg,43
+Bell Pepper,Veg,20
+Black Olives,Veg,115
+Broccoli,Veg,34
+Brussels Sprouts,Veg,43
+Cabbage,Veg,25
+Capsicum,Veg,27
+Carrot,Veg,41
+Cauliflower,Veg,25
+Celery,Veg,16
+Chard,Veg,19
+Cherry Tomato,Veg,100
+Chicory,Veg,72
+Chinese Cabbage,Veg,16
+Chives,Veg,30
+Collard Greens,Veg,32
+Corn,Veg,365
+Courgette,Veg,17
+Creamed Spinach,Veg,74
+Cucumber,Veg,16
+Eggplant,Veg,25
+Endive,Veg,17
+Fennel,Veg,31
+Garlic,Veg,149
+Gherkin,Veg,14
+Gourd,Veg,14
+Green Beans,Veg,31
+Green Olives,Veg,115
+Green Onion,Veg,32
+Horseradish,Veg,48
+Kale,Veg,49
+Kohlrabi,Veg,27
+Kumara,Veg,86
+Leek,Veg,61
+Lettuce,Veg,15
+Mushrooms,Veg,22
+Mustard Greens,Veg,27
+Nori,Veg,35
+Okra,Veg,33
+Olives,Veg,115
+Onion,Veg,40
+Parsnips,Veg,75
+Peas,Veg,81
+Pepper,Veg,27
+Potato,Veg,77
+Pumpkin,Veg,26
+Radishes,Veg,16
+Red Cabbage,Veg,31
+Rutabaga,Veg,38
+Shallots,Veg,72
+Spinach,Veg,23
+Squash,Veg,45
+Sweet Potato,Veg,86
+Tomato,Veg,18
+Turnip Greens,Veg,20
+Turnips,Veg,28
+Wasabi,Veg,109
+Winter Squash,Veg,34
+Zucchini,Veg,17
+Arby’s Grand Turkey Club,Non Veg,210
+Arby’s Reuben,Non Veg,208
+Arby’s Roast Beef Classic,Non Veg,234
+Arby’s Roast Beef Max,Non Veg,234
+BBQ Rib,Non Veg,212
+Bean Burrito, Veg,200
+Big N’ Tasty, Veg,223
+Bratwurst, Veg,333
+Burger King Angry Whopper, Veg,255
+Burger King Double Whopper, Veg,239
+Burger King Double Whopper with  Veg, Veg,249
+Burger King Original Chicken Sandwich,Non Veg,301
+Burger King Premium Alaskan Fish Sandwich, Veg,259
+Burger King Triple Whopper, Veg,269
+Burger King Whopper, Veg,231
+Burger King Whopper Jr., Veg,234
+Burger King Whopper with  Veg, Veg,241
+ Vegburger, Veg,263
+Chicken Breast,Non Veg,163
+Chicken Fajita,Non Veg,147
+Chicken McNuggets,Non Veg,302
+Chicken Nuggets,Non Veg,296
+Chicken Pizziola,Non Veg,141
+Chicken Sandwich,Non Veg,241
+Chicken Teriyaki Sandwich,Non Veg,138
+Chicken Wings,Non Veg,324
+Chop Suey, Veg,172
+Curly Fries, Veg,311
+Double  Vegburger, Veg,267
+Egg Roll,Non Veg,250
+Falafel, Veg,335
+Filet-o-Fish,Non Veg,282
+Fish and Chips,Non Veg,195
+Fish Sandwich,Non Veg,273
+French Fries, Veg,312
+Grilled Chicken Salad,Non Veg,88
+Ham Sandwich,Non Veg,241
+Hamburger,Non Veg,254
+Hot Dog,Non Veg,269
+Italian BMT, Veg,183
+Lasagna, Veg,132
+McDonald’s Big Mac, Veg,256
+McDonald’s  Vegburger, Veg,263
+McDonald’s Chicken Nuggets,Non Veg,297
+McDonald’s Double  Vegburger, Veg,282
+McDonald’s Filet-o-Fish, Veg,275
+McDonald’s McChicken,Non Veg,251
+McDonald’s McDouble, Veg,252
+McDonald’s McMuffi Egg,Non Veg,225
+McDonald’s McRib, Veg,265
+McDonald’s Mighty Wings,Non Veg,308
+McRib, Veg,265
+Non Vegball Sandwich, Veg,161
+Nachos with  Veg, Veg,306
+Onion Rings, Veg,411
+Smoked Salmon, Veg,158
+Spicy Italian, Veg,219
+Subway Club Sandwich, Veg,131
+Tortilla Wrap,Non Veg,271
+Tuna,Non Veg,86
+Turkey,Non Veg,104
+Veggie Burger, Veg,181
+Veggie Delight, Veg,138
+Veggie Patty, Veg,390
+Wendy’s Baconator, Veg,304
+Wendy’s Jr. Bacon  Vegburger, Veg,261
+Wendy’s Jr.  Vegburger, Veg,225
+Wendy’s Son of Baconator, Veg,321
+Whopper, Veg,231
+Zinger, Veg,256
+Zinger Burger, Veg,256
+Poutine, Veg,227
+BBQ Chicken  Veg,Non Veg,234
+BBQ  Veg,Non Veg,224
+Beef  Veg,Non Veg,304
+Bianca  Veg,Non Veg,246
+Buffalo Chicken  Veg,Non Veg,252
+abrese  Veg, Veg,235
+zone, Veg,231
+Capricciosa  Veg, Veg,260
+ Veg  Veg, Veg,267
+Chicken  Veg,Non Veg,234
+Deep Dish  Veg, Veg,265
+Dominos Philly  Veg Steak  Veg, Veg,224
+Four  Veg  Veg, Veg,221
+Goat  Veg  Veg, Veg,219
+Grilled  Veg, Veg,226
+Hawaiian  Veg, Veg,115
+Margherita  Veg, Veg,275
+Mozzarella  Veg, Veg,249
+Mushroom  Veg, Veg,212
+Napoli  Veg, Veg,202
+New York Style  Veg, Veg,169
+Pepperoni  Veg, Veg,255
+ Veg Dough, Veg,228
+ Veg Hut Stuffed Crust  Veg, Veg,255
+ Veg Hut Supreme  Veg, Veg,248
+ Veg Rolls, Veg,247
+Quattro Formaggi  Veg, Veg,248
+Red Pepper  Veg, Veg,192
+Salami  Veg,Non Veg,255
+Non Veg  Veg,Non Veg,246
+Seafood  Veg,Non Veg,245
+Shrimp  Veg,Non Veg,209
+Sicilian  Veg, Veg,241
+Spinach Feta  Veg, Veg,242
+Spinach  Veg, Veg,234
+Stuffed Crust  Veg, Veg,255
+Tarte Flambée, Veg,253
+Thin Crust  Veg, Veg,261
+Tuna  Veg,Non Veg,254
+Vegetable  Veg, Veg,256
+Vegetarian  Veg, Veg,256
+Veggie  Veg, Veg,231
+White  Veg, Veg,246
+American  Veg, Veg,148
+Applewood, Veg,410
+Asiago  Veg, Veg,392
+Babybel, Veg,333
+Blue  Veg, Veg,353
+Brie, Veg,334
+Camembert, Veg,300
+Cheddar, Veg,403
+ Veg Fondue, Veg,228
+ Veg Spread, Veg,290
+ Veg Whiz, Veg,276
+Chester, Veg,387
+Colby  Veg, Veg,394
+Colby-Jack  Veg, Veg,394
+Cottage  Veg, Veg,98
+Dutch  Veg, Veg,393
+Edam  Veg, Veg,357
+Emmentaler, Veg,357
+Feta, Veg,264
+Fontina, Veg,389
+Fresh Mozzarella, Veg,280
+Gjetost, Veg,466
+Goat  Veg, Veg,364
+Gorgonzola, Veg,350
+Gouda, Veg,356
+Grated Parmesan, Veg,431
+Grilled  Veg, Veg,350
+Gruyere, Veg,413
+Halloumi, Veg,321
+Havarti, Veg,371
+Italian  Veg, Veg,397
+Jarlsberg, Veg,352
+Maasdam  Veg, Veg,344
+Manchego  Veg, Veg,320
+Monterey, Veg,373
+Monterey Jack  Veg, Veg,373
+Mozzarella, Veg,280
+Muenster  Veg, Veg,368
+Neufchatel, Veg,253
+Parmesan, Veg,431
+Pecorino, Veg,387
+Provolone, Veg,351
+Raclette  Veg, Veg,357
+Ricotta, Veg,174
+Romano, Veg,387
+Roquefort, Veg,369
+Sheep  Veg, Veg,364
+Soft  Veg, Veg,268
+Stilton  Veg, Veg,393
+String  Veg, Veg,250
+Swiss  Veg, Veg,380
+White Cheddar, Veg,403
+Wisconsin  Veg, Veg,389
+Chive Cream  Veg, Veg,342
+Cottage  Veg, Veg,98
+Cream  Veg, Veg,342
+Cream  Veg with Herbs, Veg,342
+Feta Cream  Veg, Veg,342
+Garlic Cream  Veg, Veg,342
+Goat  Veg, Veg,364
+Horseradish, Veg,48
+Mascarpone, Veg,450
+Obatzda, Veg,303
+Olive Cream  Veg, Veg,342
+Pesto Cream  Veg, Veg,342
+Philadelphia Cream  Veg, Veg,342
+Pineapple Cream  Veg, Veg,342
+Salmon Cream  Veg, Veg,342
+Vegetable Cream  Veg, Veg,342
+Walnut Cream  Veg, Veg,342
+Almond Milk, Veg,17
+Buttermilk, Veg,62
+Chocolate Mousse, Veg,225
+Coconut Milk, Veg,230
+Coffee Creamer, Veg,195
+Condensed Milk, Veg,321
+Cottage  Veg, Veg,98
+Cream, Veg,242
+Creme Fraiche, Veg,393
+Curd, Veg,98
+Custard, Veg,122
+Evaporated Milk, Veg,135
+Goat Milk, Veg,69
+Hot Chocolate, Veg,89
+Kefir, Veg,55
+Lactose-free Milk, Veg,52
+Lassi, Veg,75
+Milk, Veg,61
+Plain  Veg, Veg,61
+Powdered Milk, Veg,496
+Quark, Veg,145
+Rice Milk, Veg,49
+Rice Pudding, Veg,118
+Semi-skimmed Milk, Veg,50
+Semolina Pudding, Veg,67
+Skim Milk, Veg,35
+Sour Cream, Veg,181
+Soy Milk, Veg,45
+Sweetened Condensed Milk, Veg,321
+Tzatziki, Veg,117
+Whipped Cream, Veg,257
+Whole Milk, Veg,61
+ Veg, Veg,61
+American  Veg, Veg,148
+Applewood, Veg,410
+Bergkäse, Veg,418
+Butter  Veg, Veg,388
+Cheddar, Veg,403
+ Veg Platter, Veg,357
+ Veg Slices, Veg,356
+Colby  Veg, Veg,394
+Colby-Jack  Veg, Veg,394
+Cold Pack  Veg, Veg,246
+Edam, Veg,357
+Edam  Veg, Veg,357
+Emmental, Veg,357
+Emmentaler, Veg,357
+Esrom ( Veg), Veg,322
+Fol Epi, Veg,388
+Fresh Mozzarella, Veg,280
+Gouda, Veg,356
+Gouda  Veg, Veg,356
+Havarti, Veg,371
+Lacy Swiss  Veg, Veg,321
+Leerdammer, Veg,284
+Leerdammer  Veg, Veg,284
+Maasdam  Veg, Veg,344
+Monterey Jack  Veg, Veg,373
+Mozzarella, Veg,280
+Muenster  Veg, Veg,368
+Pepper  Veg, Veg,100
+Sandwich  Veg, Veg,148
+Smoked  Veg, Veg,410
+Tilsit, Veg,340
+White American, Veg,148
+White Cheddar, Veg,403
+Young Gouda, Veg,356
+Activia, Veg,74
+Activia Lemon, Veg,100
+Activia Strawberry, Veg,97
+Aloe Vera  Veg, Veg,85
+Ayran, Veg,42
+Bircher Muesli  Veg, Veg,109
+Blueberry  Veg, Veg,105
+Cherry  Veg, Veg,97
+Chocolate  Veg, Veg,128
+Cream  Veg, Veg,124
+Creamy  Veg, Veg,90
+Diet  Veg, Veg,54
+Fruit  Veg, Veg,97
+Greek  Veg, Veg,53
+Low-Fat  Veg, Veg,63
+Mocca  Veg, Veg,100
+Organic  Veg, Veg,75
+Peach  Veg, Veg,97
+Plain  Veg, Veg,61
+Probiotic  Veg, Veg,80
+Skim Milk  Veg, Veg,56
+Stracciatella  Veg, Veg,139
+Strawberry  Veg, Veg,100
+Vanilla  Veg, Veg,101
+ Veg, Veg,61
+ Veg Corner, Veg,119
+Yoplait Boston Cream Pie, Veg,90
+Yoplait French Vanilla, Veg,100
+Yoplait Greek Blueberry, Veg,100
+Yoplait Greek Coconut, Veg,100
+Yoplait Greek Strawberry, Veg,100
+Yoplait Greek Vanilla, Veg,100
+Yoplait Harvest Peach, Veg,100
+Yoplait Key Lime Pie, Veg,100
+Yoplait Mango, Veg,100
+Yoplait Mixed Berry, Veg,100
+Yoplait Pina Colada, Veg,100
+Yoplait Strawberry, Veg,100
+Yoplait Strawberry Banana, Veg,100
+Yoplait Strawberry  Vegcake, Veg,100
+Beef,Non Veg,171
+Beef Brisket,Non Veg,137
+Beef Fillet,Non Veg,189
+Beef Goulash,Non Veg,123
+Beef Minute Steak,Non Veg,133
+Beef Neck,Non Veg,213
+Beef Pancreas,Non Veg,271
+Beef Patty,Non Veg,247
+Beef Prime Rib,Non Veg,404
+Beef Ribs,Non Veg,196
+Beef Sirloin,Non Veg,182
+Beef Suet,Non Veg,854
+Beef Tallow,Non Veg,902
+Beef Thymus,Non Veg,319
+Beef Tripe,Non Veg,94
+Chuck Roast,Non Veg,141
+Chuck Steak,Non Veg,137
+Filet Mignon,Non Veg,207
+Flank Steak,Non Veg,194
+Ground Beef,Non Veg,241
+Ground Chuck,Non Veg,250
+Ground Round,Non Veg,212
+Minced Veal,Non Veg,143
+Porterhouse Steak,Non Veg,247
+Rib Eye Steak,Non Veg,217
+Roast Beef,Non Veg,187
+Rump Steak,Non Veg,171
+Skirt Steak,Non Veg,205
+Stew Beef,Non Veg,191
+Strip Steak,Non Veg,117
+T-Bone-Steak,Non Veg,221
+Veal,Non Veg,282
+Veal Breast,Non Veg,282
+Veal Leg,Non Veg,211
+Veal Roast Beef,Non Veg,175
+Veal Shank,Non Veg,177
+Veal Shoulder,Non Veg,183
+Veal Sirloin,Non Veg,204
+Veal Tenderloin,Non Veg,217
+Baked Ham,Non Veg,343
+Beef Salami,Non Veg,375
+Boiled Ham,Non Veg,126
+Bologna,Non Veg,247
+Bresaola,Non Veg,178
+Capicola,Non Veg,110
+Chicken Breast Fillet,Non Veg,79
+Chopped Ham,Non Veg,180
+Chorizo,Non Veg,455
+Corned Beef,Non Veg,251
+Dutch Loaf,Non Veg,268
+Ham,Non Veg,145
+Ham Non Veg,Non Veg,164
+Head  Veg,Non Veg,157
+Hickory Ham,Non Veg,188
+Honey Ham,Non Veg,122
+Liverwurst,Non Veg,326
+Olive Loaf,Non Veg,232
+Oven-Roasted Turkey Breast,Non Veg,104
+Parma Ham,Non Veg,345
+Pastrami,Non Veg,133
+Pepperoni,Non Veg,494
+Pimento Loaf,Non Veg,265
+Non Veg Roast,Non Veg,247
+Prosciutto,Non Veg,195
+Roast Beef,Non Veg,267
+Salami,Non Veg,336
+Serrano Ham,Non Veg,300
+Smoked Ham,Non Veg,107
+Smoked Turkey Breast,Non Veg,104
+Summer Non Veg,Non Veg,298
+Tongue,Non Veg,284
+Turkey Breast,Non Veg,104
+Turkey Ham,Non Veg,126
+Turkey Salami,Non Veg,152
+Alligator,Non Veg,232
+Beef,Non Veg,248
+Beef Brisket,Non Veg,242
+Beef Jerky,Non Veg,410
+Beef Ribs,Non Veg,238
+Beef Tenderloin,Non Veg,218
+Chicken,Non Veg,219
+Chicken Breast,Non Veg,172
+Chicken Drumstick,Non Veg,185
+Chicken Fat,Non Veg,898
+Chicken Giblets,Non Veg,158
+Chicken Gizzards,Non Veg,146
+Chicken Leg,Non Veg,174
+Chicken Liver,Non Veg,167
+Chicken Non Veg,Non Veg,172
+Chicken Thigh,Non Veg,229
+Chicken Wing,Non Veg,266
+Chuck Steak,Non Veg,277
+Cubed Steak,Non Veg,199
+Duck,Non Veg,337
+Filet Mignon,Non Veg,267
+Flank Steak,Non Veg,194
+Flat Iron Steak,Non Veg,137
+Ground Beef,Non Veg,246
+Ground Round,Non Veg,246
+Ham,Non Veg,163
+New York Strip Steak,Non Veg,199
+Ostrich,Non Veg,145
+Non Veg,Non Veg,196
+Non Veg Baby Back Ribs,Non Veg,212
+Non Veg Chops,Non Veg,196
+Non Veg Country-Style Ribs,Non Veg,247
+Non Veg Loin,Non Veg,204
+Non Veg Roast,Non Veg,254
+Non Veg Steaks,Non Veg,196
+Roast Beef,Non Veg,140
+Round Steak,Non Veg,182
+Schnitzel,Non Veg,156
+Spare Ribs,Non Veg,238
+Standing Rib Roast,Non Veg,333
+T-Bone Steak,Non Veg,202
+Turkey,Non Veg,189
+Turkey Breast,Non Veg,135
+Turkey Legs,Non Veg,208
+Turkey Steak,Non Veg,189
+Turkey Wings,Non Veg,221
+Beef Brain,Non Veg,196
+Beef Heart,Non Veg,165
+Beef Kidney,Non Veg,158
+Beef Liver,Non Veg,191
+Beef Lung,Non Veg,120
+Beef Melt,Non Veg,271
+Beef Tongue,Non Veg,284
+f Brain,Non Veg,136
+f Liver,Non Veg,192
+f Lung,Non Veg,104
+f Melt,Non Veg,256
+Chicken Giblets,Non Veg,277
+Chicken Heart,Non Veg,185
+Chicken Liver,Non Veg,172
+Chicken Stomach,Non Veg,148
+Chitterlings,Non Veg,233
+Duck Liver,Non Veg,136
+Goose Liver,Non Veg,133
+Hog Maws,Non Veg,157
+Pig Brain,Non Veg,138
+Pig Heart,Non Veg,148
+Pig Kidney,Non Veg,151
+Pig Lung,Non Veg,99
+Non Veg Liver,Non Veg,165
+Non Veg Melt,Non Veg,219
+Non Veg Tongue,Non Veg,271
+Turkey Giblets,Non Veg,173
+Turkey Heart,Non Veg,174
+Turkey Liver,Non Veg,189
+Turkey Stomach,Non Veg,148
+Veal Heart,Non Veg,186
+Veal Kidney,Non Veg,163
+Veal Tongue,Non Veg,202
+Bacon,Non Veg,407
+Brawn,Non Veg,309
+Canadian-Style Bacon,Non Veg,107
+Chitterlings,Non Veg,233
+Ground Non Veg,Non Veg,263
+Hog Maws,Non Veg,250
+Lard,Non Veg,898
+Non Vegloaf,Non Veg,89
+Parma Ham,Non Veg,261
+Pig Ear,Non Veg,166
+Pig Fat,Non Veg,638
+Pig’s Tail,Non Veg,396
+Pig’s Trotter,Non Veg,243
+Non Veg Bacon,Non Veg,407
+Non Veg Belly,Non Veg,518
+Non Veg Blade Steak,Non Veg,232
+Non Veg Chop,Non Veg,123
+Non Veg Country-Style Ribs,Non Veg,133
+Non Veg Crown Roast,Non Veg,212
+Non Veg Cutlet,Non Veg,131
+Non Veg Cutlets,Non Veg,131
+Non Veg Leg,Non Veg,201
+Non Veg Loin,Non Veg,143
+Non Veg Non Vegloaf,Non Veg,243
+Non Veg Ragout,Non Veg,73
+Non Veg Rib Roast,Non Veg,159
+Non Veg Ribs,Non Veg,292
+Non Veg Roast,Non Veg,194
+Non Veg Non Veg,Non Veg,339
+Non Veg Shank,Non Veg,172
+Non Veg Shoulder,Non Veg,269
+Non Veg Shoulder Blade,Non Veg,232
+Non Veg Stomach,Non Veg,250
+Rack of Non Veg,Non Veg,241
+Salt Non Veg,Non Veg,286
+Salt Non Veg,Non Veg,286
+Serrano Ham,Non Veg,339
+Spare Ribs,Non Veg,396
+Spareribs,Non Veg,238
+Capon,Non Veg,229
+Chicken,Non Veg,219
+Chicken Breast,Non Veg,172
+Chicken Drumsticks,Non Veg,185
+Chicken Gizzards,Non Veg,154
+Chicken Legs,Non Veg,174
+Chicken Thighs,Non Veg,229
+Chicken Wings,Non Veg,266
+Cornish Hens,Non Veg,259
+Dove,Non Veg,213
+Duck,Non Veg,337
+Duck Breast,Non Veg,201
+Emu,Non Veg,152
+Goose,Non Veg,305
+Guinea-Fowl,Non Veg,158
+Ostrich,Non Veg,145
+Ostrich Non Veg,Non Veg,145
+Pheasant,Non Veg,239
+Pheasant Breast,Non Veg,133
+Pheasant Leg,Non Veg,239
+Pigeon,Non Veg,142
+Poularde,Non Veg,200
+Quail,Non Veg,227
+Quail Breast,Non Veg,123
+Rhea,Non Veg,160
+Turkey,Non Veg,189
+Turkey Breast,Non Veg,135
+Turkey Cutlet,Non Veg,189
+Turkey Drumsticks,Non Veg,208
+Turkey Legs,Non Veg,208
+Turkey Steak,Non Veg,189
+Turkey Wings,Non Veg,221
+Wild Duck,Non Veg,211
+Andouille,Non Veg,232
+Bacon,Non Veg,407
+Black Pudding,Non Veg,379
+Blood Non Veg,Non Veg,379
+Bockwurst,Non Veg,301
+Boiled Ham,Non Veg,104
+Bologna,Non Veg,247
+Boudin,Non Veg,194
+Bratwurst,Non Veg,297
+Brawn,Non Veg,157
+Breakfast Non Veg Links,Non Veg,339
+ Veg Pastry,Non Veg,374
+Chicken Breast,Non Veg,79
+Chicken Non Veg,Non Veg,79
+Chicken Salad,Non Veg,81
+Chorizo,Non Veg,455
+Cooked Ham,Non Veg,133
+Corned Beef,Non Veg,153
+Cumberland Non Veg,Non Veg,250
+Frankfurters,Non Veg,305
+Garlic Non Veg,Non Veg,169
+Hot Dogs,Non Veg,278
+Hot Non Veg,Non Veg,259
+Italian Non Veg,Non Veg,149
+Jerky,Non Veg,410
+Kielbasa,Non Veg,309
+Knackwurst,Non Veg,307
+Landjaeger,Non Veg,352
+Linguica,Non Veg,282
+Liver Pate,Non Veg,319
+Liverwurst,Non Veg,326
+Luncheon Non Veg,Non Veg,117
+Mettwurst,Non Veg,310
+Mortadella,Non Veg,311
+Pastrami,Non Veg,133
+Pepperoni,Non Veg,494
+Polish Non Veg,Non Veg,301
+Non Veg,Non Veg,247
+Non Veg Roll,Non Veg,302
+Prosciutto,Non Veg,195
+Ring Bologna,Non Veg,286
+Salami,Non Veg,336
+Non Veg,Non Veg,230
+Smoked Non Veg,Non Veg,301
+Souse,Non Veg,157
+Spam,Non Veg,315
+Weisswurst,Non Veg,313
+Alligator,Non Veg,104
+Alligator Non Veg,Non Veg,232
+Antelope Non Veg,Non Veg,150
+Bear Non Veg,Non Veg,259
+Beaver Non Veg,Non Veg,212
+Bison,Non Veg,171
+Bison Non Veg,Non Veg,171
+Bison Sirloin,Non Veg,171
+Buffalo,Non Veg,131
+Buffalo Non Veg,Non Veg,131
+Caribou,Non Veg,159
+Goose,Non Veg,238
+Goose Non Veg,Non Veg,238
+Lamb,Non Veg,202
+Lamb Non Veg,Non Veg,202
+Mallard Duck Non Veg,Non Veg,211
+Mallard Non Veg,Non Veg,211
+Moose,Non Veg,134
+Moose Non Veg,Non Veg,134
+Mutton,Non Veg,234
+Mutton Non Veg,Non Veg,234
+Ostrich,Non Veg,175
+Ostrich Non Veg,Non Veg,175
+Pheasant,Non Veg,239
+Pheasant Non Veg,Non Veg,239
+Rabbit,Non Veg,197
+Racoon,Non Veg,255
+Racoon Non Veg,Non Veg,255
+Reindeer,Non Veg,200
+Reindeer Non Veg,Non Veg,200
+Squirrel,Non Veg,173
+Squirrel Non Veg,Non Veg,173
+Venison,Non Veg,164
+Venison Sirloin,Non Veg,158
+Wild Boar,Non Veg,160
+Wild Boar Non Veg,Non Veg,160
+Angel Food Cake, Veg,258
+Apple Cake, Veg,252
+Apple Cobbler, Veg,198
+Apple Crisp, Veg,156
+Apple Crumble, Veg,156
+Apple Pie, Veg,237
+Apple Strudel, Veg,274
+Apple Turnover, Veg,348
+Applesauce Cake, Veg,358
+Baked Alaska, Veg,247
+Bakewell Tart, Veg,430
+Banoffee Pie, Veg,395
+Birthday Cake, Veg,465
+Black and White Cookie, Veg,381
+Black Forest Cake, Veg,264
+Blueberry Cobbler, Veg,234
+Blueberry Muffin, Veg,377
+Blueberry Pie, Veg,232
+Bundt Cake, Veg,370
+Buttermilk Pie, Veg,380
+Caramel Cake, Veg,475
+Carrot Cake, Veg,408
+ Vegcake, Veg,321
+Cherry Pie, Veg,260
+Chess Pie, Veg,411
+Chocolate Cake, Veg,389
+Chocolate Cream Pie, Veg,304
+Chocolate Mousse Cake, Veg,260
+Chocolate Mousse Pie, Veg,260
+Chocolate Muffin, Veg,420
+Coconut Cake, Veg,356
+Coffee Cake, Veg,331
+Cream Puff, Veg,334
+Crumb Cake, Veg,441
+Cupcake, Veg,305
+Danish Pastry, Veg,374
+Donut, Veg,403
+Doughnut, Veg,403
+Flan, Veg,145
+Flourless Chocolate Cake, Veg,509
+French Cruller, Veg,412
+Fruit Cake, Veg,324
+Funnel Cake, Veg,307
+German Chocolate Cake, Veg,370
+Gingerbread, Veg,356
+Ice Cream Cake, Veg,200
+Key Lime Pie, Veg,359
+King Cake, Veg,377
+Layer Cake, Veg,402
+Lemon Cake, Veg,352
+Lemon Meringue Pie, Veg,268
+Madeira Cake, Veg,394
+Marble Cake, Veg,339
+Meringue, Veg,285
+Opera Cake, Veg,320
+Paczki, Veg,336
+Pancake, Veg,227
+Panettone, Veg,360
+Pavlova, Veg,294
+Peach Cobbler, Veg,65
+Peach Pie, Veg,223
+Pecan Pie, Veg,407
+Pineapple Upside-Down Cake, Veg,319
+Plum Cake, Veg,109
+Poppy-Seed Cake, Veg,394
+Pound Cake, Veg,390
+Profiterole, Veg,334
+Puff Pastry, Veg,558
+Pumpkin Bread, Veg,298
+Pumpkin  Vegcake, Veg,340
+Pumpkin Pie, Veg,243
+Raspberry Pie, Veg,240
+Red Velvet Cake, Veg,367
+Rhubarb Pie, Veg,245
+Rum Cake, Veg,351
+Sacher Torte, Veg,352
+Sponge Cake, Veg,289
+Strawberry  Vegcake, Veg,327
+Strawberry Pie, Veg,230
+Strawberry Rhubarb Pie, Veg,281
+Sweet Potato Pie, Veg,260
+Swiss Roll, Veg,439
+Tarte Tatin, Veg,210
+Tiramisu, Veg,283
+Tiramisu Cake, Veg,291
+Treacle Tart, Veg,369
+Tres Leches Cake, Veg,246
+Trifle, Veg,180
+Victoria Sponge Cake, Veg,257
+Waffles, Veg,312
+Wedding Cake, Veg,381
+3 Musketeers, Veg,400
+After Eight, Veg,452
+Airheads, Veg,375
+Almond Roca, Veg,571
+Angel Delight, Veg,451
+Animal Crackers, Veg,446
+Baby Ruth, Veg,469
+Butterfinger, Veg,450
+Buttermilk Pancakes, Veg,238
+Candy Apple, Veg,152
+Candy Cane, Veg,423
+Candy canes, Veg,423
+Candy Corn, Veg,360
+Candy Floss, Veg,400
+Caramel Popcorn, Veg,376
+Caramel squares, Veg,367
+Celebrations, Veg,490
+Cheez-It’s, Veg,533
+Chocolate, Veg,529
+Chocolate Bar, Veg,533
+Chocolate Chips, Veg,493
+Cookies, Veg,488
+Cotton Candy, Veg,643
+Eggy Bread, Veg,196
+Fairy Cakes, Veg,440
+Ferrero Rocher, Veg,576
+Flapjack, Veg,486
+Fortune Cookies, Veg,214
+Granola Bars, Veg,452
+Gumdrops, Veg,321
+Gummi Bears, Veg,316
+Hanuta, Veg,541
+Hershey Kisses, Veg,471
+Jelly Beans, Veg,354
+Jelly Belly, Veg,354
+Jolly Ranchers, Veg,385
+Jordan Almonds, Veg,429
+Kit Kat, Veg,521
+Laffy Taffy, Veg,372
+Licorice, Veg,375
+LifeSavers, Veg,500
+Lindt Chocolate, Veg,548
+Liquorice, Veg,375
+Lollipop, Veg,392
+M&M’s, Veg,479
+Maltesers, Veg,498
+Mars Bar, Veg,448
+Marshmallows, Veg,318
+Marzipan, Veg,411
+Mike and Ike, Veg,360
+Milk Duds, Veg,422
+Milky Way, Veg,449
+PayDay, Veg,462
+Peanut Bar, Veg,533
+Peanut Brittle, Veg,183
+Peanut Butter Bars, Veg,379
+Peanut Butter Cookies, Veg,475
+Peppermint bark, Veg,500
+Pez, Veg,427
+Pop Rocks, Veg,358
+Popcorn, Veg,582
+Pumpkin Seeds, Veg,560
+Reeses Peanut Butter Cups, Veg,536
+Rice Pudding, Veg,134
+Roasted Almonds, Veg,452
+Rolo, Veg,474
+S’mores, Veg,500
+Semolina, Veg,340
+Skittles, Veg,405
+Smarties, Veg,357
+Smores, Veg,500
+Snickers, Veg,484
+Sour Patch Kids, Veg,363
+Speculoos, Veg,469
+Spritz Cookies, Veg,500
+Take 5, Veg,476
+Toblerone, Veg,525
+Trifle, Veg,186
+Twix, Veg,495
+Waffles, Veg,272
+Whoopie Pie, Veg,400
+Baskin-Robbins, Veg,239
+Ben and Jerry’s, Veg,228
+Butter Pecan Ice Cream, Veg,248
+Carvel, Veg,212
+Chocolate Chip Ice Cream, Veg,215
+Chocolate Ice Cream, Veg,216
+Ciao Bella, Veg,109
+Coffee Ice Cream, Veg,236
+Cold Stone Creamery, Veg,232
+Cookie Dough Ice Cream, Veg,200
+Crunchie McFlurry, Veg,174
+Dairy Milk McFlurry, Veg,186
+Dippin Dots, Veg,224
+Double Rainbow, Veg,257
+Drumsticks, Veg,255
+French Vanilla Ice Cream, Veg,201
+Friendly’s, Veg,212
+Healthy Choice, Veg,125
+Hot Fudge Sundae, Veg,186
+Ice Cream Sandwich, Veg,237
+Ice Cream Sundae, Veg,142
+Ice Milk, Veg,159
+Magnolia, Veg,230
+Magnum, Veg,300
+Magnum Almond, Veg,315
+Magnum Double Caramel, Veg,355
+Magnum Double Chocolate, Veg,380
+Magnum Gold, Veg,341
+Magnum White, Veg,297
+McFlurry, Veg,153
+McFlurry Oreo, Veg,186
+Mini Milk, Veg,120
+Mint Chocolate Chip Ice Cream, Veg,239
+Rocky Road Ice Cream, Veg,257
+Schwan’s, Veg,246
+Smarties McFlurry, Veg,198
+Snickers Ice Cream, Veg,360
+Soft Serve, Veg,222
+Solero, Veg,100
+Strawberry Ice Cream, Veg,236
+Strawberry Sundae, Veg,158
+Sundae, Veg,215
+Turkey Hill, Veg,271
+Vanilla Cone, Veg,162
+Vanilla Ice Cream, Veg,201
+Acai Juice, Veg,58
+Aloe Vera, Veg,44
+Apple Juice, Veg,46
+Apricot Nectar, Veg,56
+Banana Juice, Veg,50
+Blackberry Juice, Veg,48
+Boysenberry Juice, Veg,54
+Capri-Sun, Veg,41
+Carrot Juice, Veg,40
+Chamomile Tea, Veg,0
+Cherry Juice, Veg,45
+Clamato, Veg,60
+Coconut Milk, Veg,233
+Coconut Water, Veg,19
+Concord Grape, Veg,71
+Cranberry Apple Juice, Veg,67
+Cranberry Grape Juice, Veg,71
+Cranberry Juice, Veg,46
+Cucumber Juice, Veg,10
+Currant Juice, Veg,48
+Energy-Drink, Veg,87
+Fruitopia, Veg,110
+Grape Juice, Veg,60
+Grapefruit Juice, Veg,46
+Lemon Juice, Veg,21
+Lemonade, Veg,50
+Lime Juice, Veg,21
+Limeade, Veg,128
+Mango Lassi, Veg,66
+Nestea, Veg,21
+Orange Juice, Veg,46
+Papaya Juice, Veg,58
+Passion Fruit Juice, Veg,48
+Peach Juice, Veg,54
+Peach Nectar, Veg,54
+Pear Juice, Veg,60
+Pear Nectar, Veg,60
+Pineapple Juice, Veg,53
+Pineapple Orange Juice, Veg,50
+Plum Juice, Veg,71
+Pomegranate Juice, Veg,66
+Sauerkraut Juice, Veg,14
+Tangerine Juice, Veg,43
+Tomato Juice, Veg,17
+Vegetable Juice, Veg,21
+White Grape Juice, Veg,75
+Amaranth, Veg,371
+Barley, Veg,354
+Barley Groats, Veg,100
+Brown Rice, Veg,388
+Buckwheat, Veg,343
+Buckwheat Groats, Veg,346
+Corn Waffles, Veg,274
+Cornmeal, Veg,362
+Cornstarch, Veg,381
+Couscous, Veg,376
+Cracker, Veg,502
+Durum Wheat Semolina, Veg,397
+Flaxseed, Veg,534
+Freekeh, Veg,520
+Gluten, Veg,370
+Grissini, Veg,408
+Kamut, Veg,337
+Millet, Veg,378
+Millet Flour, Veg,372
+Millet Gruel, Veg,46
+Oat Bran, Veg,246
+Pearl Barley, Veg,352
+Polenta, Veg,366
+Prawn Crackers, Veg,527
+Pretzel Sticks, Veg,380
+Quinoa, Veg,368
+Rusk, Veg,410
+Rye Bran, Veg,281
+Sago, Veg,354
+Savoury Biscuits, Veg,347
+Shortbread, Veg,502
+Spelt, Veg,338
+Spelt Bran, Veg,177
+Spelt Semolina, Veg,360
+Sunflower Seeds, Veg,584
+Tortilla, Veg,237
+Tortilla Chips, Veg,499
+Wheat Bran, Veg,216
+Wheat Germ, Veg,382
+Wheat Gluten, Veg,325
+Wheat Semolina, Veg,360
+Wheat Starch, Veg,351
+Whole Grain Wheat, Veg,339
+Wholegrain Oat, Veg,375
+Bran Flakes, Veg,356
+Cap’n Crunch, Veg,404
+Cheerios, Veg,347
+Chex, Veg,387
+Chocolate Cheerios, Veg,367
+Chocos, Veg,380
+Cinnamon Toast Crunch, Veg,433
+Coco Pops, Veg,376
+Cocoa Krispies, Veg,386
+Cocoa Pebbles, Veg,367
+Cocoa Puffs, Veg,400
+Cookie Crisp, Veg,400
+Corn Flakes, Veg,357
+Corn Pops, Veg,377
+Count Chocula, Veg,407
+Cracklin Oat Bran, Veg,402
+Cream of Wheat, Veg,364
+Crunchy Nut, Veg,600
+Crunchy Nut Cornflakes, Veg,600
+Fiber One, Veg,267
+Froot Loops, Veg,379
+Frosted Cheerios, Veg,393
+Frosted Flakes, Veg,367
+Frosted Mini-Wheats, Veg,353
+Frosties, Veg,367
+Fruity Pebbles, Veg,400
+Golden Grahams, Veg,400
+Grape-Nuts, Veg,362
+Honey Nut Cheerios, Veg,393
+Honey Smacks, Veg,370
+Honeycomb, Veg,397
+Just Right, Veg,391
+Kashi, Veg,377
+Kelloggs Corn Flakes, Veg,357
+Kix, Veg,367
+Krave, Veg,372
+Life Cereal, Veg,375
+Lucky Charms, Veg,406
+Malt-O-Meal, Veg,51
+Mini-Wheats, Veg,353
+Muesli, Veg,336
+Multigrain Cheerios, Veg,380
+Nutri-Grain, Veg,351
+Oatibix, Veg,421
+Oatmeal, Veg,375
+Peanut Butter Toast Crunch, Veg,431
+Post Raisin Bran, Veg,322
+Post Shredded Wheat, Veg,347
+Puff, Veg,367
+Puffed Rice, Veg,383
+Puffed Wheat, Veg,367
+Quaker Grits, Veg,344
+Quaker Oatmeal, Veg,375
+Quaker Oatmeal Squares, Veg,400
+Raisin Bran, Veg,322
+Raisin Bran Crunch, Veg,355
+Raisin Bran Crunch, Veg,355
+Raisin Nut Bran, Veg,367
+Ready Brek, Veg,359
+Rice Chex, Veg,387
+Rice Krispies, Veg,394
+Scooters, Veg,367
+Shredded Wheat, Veg,340
+Shreddies, Veg,351
+Smart Start, Veg,371
+Special K, Veg,377
+Special K Chocolatey Delight, Veg,388
+Special K Protein Plus, Veg,375
+Special K Red Berries, Veg,345
+Sugar Puffs, Veg,379
+Toasties, Veg,361
+Trix, Veg,400
+Weet-Bix, Veg,353
+Weetabix, Veg,358
+Weetos, Veg,378
+Wheaties, Veg,367
+Cannelloni, Veg,146
+Capellini, Veg,353
+Cappelletti, Veg,164
+Cellophane Noodles, Veg,351
+ Veg Tortellini, Veg,291
+Dampfnudel, Veg,274
+Dumpling Dough, Veg,99
+Durum Wheat Semolina, Veg,397
+Egg Noodles, Veg,384
+Farfalle, Veg,358
+Fettuccine, Veg,353
+Fusilli, Veg,352
+Glass Noodles, Veg,192
+Lasagne Sheets, Veg,271
+Linguine, Veg,357
+Low Carb Pasta, Veg,282
+Macaroni, Veg,370
+Manicotti, Veg,357
+Mostaccioli, Veg,184
+Orecchiette, Veg,370
+Orzo, Veg,357
+Penne, Veg,351
+Penne Rigate, Veg,370
+Pierogi, Veg,200
+Ravioli, Veg,77
+Rigatoni, Veg,353
+Rotini, Veg,353
+Shells, Veg,353
+Shirataki Noodles, Veg,18
+Soy Noodles, Veg,216
+Spaetzle, Veg,368
+Spaghetti, Veg,370
+Spinach Tortellini, Veg,314
+Spirelli, Veg,367
+Tagliatelle, Veg,370
+Tortellini, Veg,291
+Vermicelli, Veg,368
+Whole Grain Noodles, Veg,347
+Whole Grain Spaghetti, Veg,351
+Ziti, Veg,352
+Baby Back Ribs, Non Veg,259
+Bacon and Eggs, Non Veg,252
+Baked Beans, Non Veg,94
+Baked Chicken, Non Veg,164
+BBQ Ribs, Non Veg,255
+Beef Stew, Non Veg,95
+Biryani, Non Veg,176
+Black Pudding, Non Veg,253
+Black Rice, Non Veg,323
+BLT, Non Veg,247
+Brown Rice, Non Veg,362
+Burrito, Non Veg,163
+Butter Chicken, Non Veg,140
+ifornia Roll, Non Veg,93
+Chicken Caesar Salad, Non Veg,127
+Chicken Fried Steak, Non Veg,151
+Chicken Marsala, Non Veg,96
+Chicken Parmesan, Non Veg,110
+Chicken Pot Pie, Non Veg,223
+Chicken Tikka Masala, Non Veg,81
+Chili con Carne, Non Veg,105
+Chimichanga, Non Veg,232
+Cobb Salad, Non Veg,118
+Collard Greens, Non Veg,28
+Corn Dog, Non Veg,250
+Corned Beef Hash, Non Veg,164
+Cottage Pie, Non Veg,139
+Dal, Non Veg,330
+Deviled Eggs, Non Veg,201
+Dim Sum, Non Veg,193
+Dosa, Non Veg,66
+Enchiladas, Non Veg,168
+Fajita, Non Veg,117
+Fish and Chips, Non Veg,195
+Fried Rice, Non Veg,186
+Fried Shrimp, Non Veg,277
+Grilled  Veg Sandwich, Non Veg,288
+Ham and  Veg Sandwich, Non Veg,241
+Hummus, Non Veg,177
+Jambalaya, Non Veg,100
+Kebab, Non Veg,215
+Lasagne, Non Veg,132
+Mac and  Veg, Non Veg,370
+Macaroni and  Veg, Non Veg,370
+Mashed Potatoes, Non Veg,83
+Non Veg Pie, Non Veg,242
+Non Vegloaf, Non Veg,254
+Naan,Veg,310
+Orange Chicken, Non Veg,259
+Pad Thai, Non Veg,150
+Paella, Non Veg,156
+Paratha,Veg,325
+Pea Soup, Non Veg,75
+Peanut Butter Sandwich, Non Veg,408
+Peking Duck, Non Veg,225
+Philly  Veg Steak, Non Veg,250
+ Veg,Veg,267
+Non Veg Chop, Non Veg,225
+Potato Salad, Non Veg,143
+Pulled Non Veg Sandwich, Non Veg,211
+Ramen, Non Veg,447
+Ravioli, Non Veg,203
+Reuben Sandwich, Non Veg,208
+Roast Beef, Non Veg,111
+Roast Dinner, Non Veg,198
+Samosa, Non Veg,214
+Non Veg Roll, Non Veg,350
+Non Veg Rolls, Non Veg,297
+Shepherds Pie, Non Veg,70
+Shrimp Cocktail, Non Veg,464
+Sloppy Joe, Non Veg,71
+Sloppy Joes, Non Veg,154
+Spaghetti Bolognese, Non Veg,132
+Spring Roll, Non Veg,250
+Spring Rolls, Non Veg,250
+Taco, Non Veg,217
+Tandoori Chicken, Non Veg,113
+Yorkshire Pudding, Non Veg,553
+Alphabet Soup,Veg,25
+Bean Stew,Veg,133
+Beef Bouillon,Veg,3
+Beef Noodle Soup,Veg,34
+Beef Soup,Veg,33
+Bouillon,Veg,16
+Broccoli  Veg Soup,Veg,87
+Broccoli Soup,Veg,87
+Cabbage Soup,Veg,28
+Carrot Ginger Soup,Veg,25
+Carrot Soup,Veg,25
+Chicken Bouillon,Veg,4
+Chicken Broth,Veg,16
+Chicken Gumbo Soup,Veg,23
+Chicken Noodle Soup,Veg,25
+Chicken Stock,Veg,16
+Chicken Vegetable Soup,Veg,31
+Chicken with Rice Soup,Veg,24
+Cream of Asparagus Soup,Veg,35
+Cream of Broccoli Soup,Veg,45
+Cream of Celery Soup,Veg,37
+Cream of Chicken Soup,Veg,48
+Cream of Mushroom Soup,Veg,39
+Cream of Onion Soup,Veg,44
+Cream of Potato Soup,Veg,30
+Creamy Chicken Noodle Soup,Veg,23
+French Onion Soup,Veg,23
+Golden Mushroom Soup,Veg,65
+Goulash,Veg,1009
+Instant Ramen,Veg,436
+Lentil Soup,Veg,56
+Lobster Bisque Soup, Non Veg,100
+Non Vegball Soup, Non Veg,49
+Minestrone,Veg,34
+Mushroom Soup,Veg,35
+Noodle Soup,Veg,34
+Onion Soup,Veg,23
+Oxtail Soup,Veg,28
+Pea Soup,Veg,75
+Potato Soup,Veg,80
+Pumpkin Soup,Veg,29
+Ramen, Non Veg,436
+Scotch Broth,Veg,33
+Succotash,Veg,115
+Thai Soup,Veg,60
+Tomato Rice Soup,Veg,47
+Tomato Soup,Veg,30
+Vegetable Beef Soup,Veg,31
+Vegetable Broth,Veg,5
+Vegetable Soup,Veg,28
+Vegetable Stock,Veg,5
+Wedding Soup,Veg,53
+Azuki Bean,Veg,124
+Bamboo Shoots,Veg,27
+Bean Curd,Veg,76
+Bean Sprouts,Veg,30
+Bengal Gram,Veg,364
+Black Beans,Veg,341
+Black Chickpeas,Veg,364
+Black Gram,Veg,341
+Brown Lentil,Veg,353
+Butternut,Veg,612
+Chickpeas,Veg,364
+Chili Bean,Veg,97
+Dal,Veg,230
+Deep-Fried Tofu,Veg,271
+Extra-Firm Tofu,Veg,91
+Firm Tofu,Veg,70
+Flageolet,Veg,85
+Fried Bean Curd,Veg,271
+Green Beans,Veg,31
+Green Gram,Veg,347
+Green Lentil,Veg,257
+Kidney Beans,Veg,337
+Lentils,Veg,353
+Lima Beans,Veg,71
+Marron,Veg,210
+Miso,Veg,199
+Mung Beans,Veg,12
+Natto,Veg,212
+Navy Bean,Veg,337
+Okara,Veg,77
+Okra,Veg,33
+Peanuts,Veg,567
+Peas,Veg,42
+Pecan,Veg,691
+Pinto Beans,Veg,347
+Puy Lentils,Veg,345
+Rajma,Veg,140
+Red Beans,Veg,124
+Red Kidney Bean,Veg,337
+Red Lentils,Veg,329
+Refried Beans,Veg,91
+Roasted Soybeans,Veg,471
+Silken Tofu,Veg,55
+Soft Tofu,Veg,61
+Soy  Veg,Veg,235
+Soy Mayonnaise,Veg,322
+Soy Nut Butter,Veg,562
+Soy Nuts,Veg,471
+Soy  Veg,Veg,66
+Soya  Veg,Veg,235
+Soybeans,Veg,147
+Soynut Butter,Veg,562
+Sugar Peas,Veg,42
+Sweet Peas,Veg,48
+Tempeh,Veg,193
+Textured Soy Protein,Veg,571
+Textured Vegetable Protein,Veg,333
+Tofu,Veg,76
+White Beans,Veg,336
+Yam Bean,Veg,38
+Yellow Lentils,Veg,304
+Yuba,Veg,176
+Acorn,Veg,387
+Alfalfa Sprouts,Veg,23
+Almonds,Veg,575
+Beechnut,Veg,576
+Brazil Nuts,Veg,656
+Breadfruit,Veg,191
+Butternut,Veg,612
+Cashew,Veg,553
+Chestnut,Veg,213
+Chia Seeds,Veg,486
+Coconut,Veg,354
+Cotton Seeds,Veg,506
+Flaxseed,Veg,534
+Ginkgo Nuts,Veg,182
+Goa Bean,Veg,409
+Hazelnut,Veg,628
+Hickory Nuts,Veg,657
+Lima Beans,Veg,71
+Lotus Seed,Veg,89
+Macadamia Nuts,Veg,718
+Peanuts,Veg,567
+Peas,Veg,81
+Pecan Nuts,Veg,691
+Pecans,Veg,691
+Pili Nuts,Veg,719
+Pine Nuts,Veg,673
+Pinto Beans,Veg,347
+Pistachios,Veg,562
+Poppy Seeds,Veg,525
+Pumpkin Seeds,Veg,559
+Radish Seeds,Veg,43
+Safflower Seeds,Veg,517
+Sesame Seeds,Veg,573
+Smoked Almonds,Veg,575
+Soy Beans,Veg,147
+Sunflower Seeds,Veg,584
+Sweet Chestnut,Veg,194
+Walnuts,Veg,654
+Watermelon,Veg,30
+Almond Oil,Veg,882
+Avocado Oil,Veg,857
+Butter,Veg,720
+Canola Oil,Veg,884
+Coconut Oil,Veg,857
+Cod Liver Oil,Veg,1000
+Corn Oil,Veg,800
+Cottonseed Oil,Veg,882
+Flaxseed Oil,Veg,884
+Ghee,Veg,120
+Goose Fat,Veg,898
+Grape Seed Oil,Veg,884
+Hemp Oil,Veg,807
+Herring Oil,Veg,902
+I can\’t believe it\’s not Butter,Veg,357
+Lard,Veg,902
+Macadamia Oil,Veg,819
+Margarine,Veg,717
+Mustard Oil,Veg,884
+Olive Oil,Veg,884
+Palm Oil,Veg,882
+Peanut Oil,Veg,857
+Real Butter,Veg,720
+Rice Bran Oil,Veg,889
+Safflower Oil,Veg,857
+Sardine Oil,Veg,902
+Sesame Oil,Veg,884
+Soybean Oil,Veg,889
+Sunflower Oil,Veg,884
+Walnut Oil,Veg,889
+Almond Oil,Veg,882
+Apricot Kernel Oil,Veg,889
+Argan Oil,Veg,896
+Avocado Oil,Veg,857
+Babassu Oil,Veg,884
+Canola Oil,Veg,884
+Coconut Oil,Veg,857
+Corn Oil,Veg,800
+Cottonseed Oil,Veg,882
+Flaxseed Oil,Veg,884
+Grape Seed Oil,Veg,884
+Hazelnut Oil,Veg,889
+Linseed Oil,Veg,837
+Menhaden Oil,Veg,911
+Mustard Oil,Veg,884
+Oat Oil,Veg,884
+Olive Oil,Veg,800
+Palm Kernel Oil,Veg,882
+Palm Oil,Veg,882
+Peanut Oil,Veg,857
+Poppy Seed Oil,Veg,884
+Pumpkin Seed Oil,Veg,880
+Rice Bran Oil,Veg,889
+Safflower Oil,Veg,857
+Salmon Oil,Veg,911
+Sesame Oil,Veg,889
+Shea Oil,Veg,884
+Soy Oil,Veg,882
+Sunflower Oil,Veg,884
+Tomato Seed Oil,Veg,884
+Vegetable Oil,Veg,800
+Walnut Oil,Veg,889
+Wheat Germ Oil,Veg,929
+Agar-Agar,Veg,26
+Agave Syrup,Veg,310
+All Purpose Flour,Veg,364
+Almond Extract,Veg,258
+Almonds,Veg,529
+Apple Pie Filling,Veg,100
+Baking Powder,Veg,53
+Baking Soda,Veg,0
+Bread Flour,Veg,361
+Brittle,Veg,592
+Brown Sugar,Veg,395
+Buttermilk,Veg,62
+Butterscotch Chips,Veg,539
+Cake Flour,Veg,362
+Candied Orange Peel,Veg,97
+Cane Sugar,Veg,387
+Chocolate Chips,Veg,467
+Chocolate Sprinkles,Veg,500
+Cocoa Powder,Veg,228
+Coconut Flakes,Veg,456
+Coconut Milk,Veg,50
+Corn Flour,Veg,361
+Corn Syrup,Veg,281
+Cornmeal,Veg,362
+Cornstarch,Veg,381
+Couverture,Veg,600
+Cream  Veg,Veg,54
+Cream of Tartar,Veg,258
+Crystallized Ginger,Veg,335
+Custard Powder,Veg,337
+Dark Rum,Veg,216
+Dextrose,Veg,375
+Dried Apricots,Veg,241
+Dried Cranberries,Veg,308
+Dried Figs,Veg,249
+Dried Prunes,Veg,107
+Duck Egg,Veg,185
+Egg,Veg,97
+Egg Nog,Veg,88
+Egg White,Veg,13
+Egg Yolk,Veg,322
+Evaporated Milk,Veg,134
+Flour,Veg,364
+Fructose,Veg,368
+Gelatin,Veg,335
+Glucose,Veg,286
+Glucose Syrup,Veg,387
+Granulated Sugar,Veg,387
+Ground Cinnamon,Veg,247
+Hazelnuts,Veg,628
+Heavy Cream,Veg,345
+Jaggery,Veg,383
+Lemon Pie Filling,Veg,143
+Malt Powder,Veg,361
+Malted Milk,Veg,405
+Maltitol,Veg,210
+Maltodextrin,Veg,375
+Maltose,Veg,344
+Maple Syrup,Veg,270
+Molasses,Veg,290
+Nonpareils,Veg,475
+Peppermint Extract,Veg,0
+Poppy Seeds,Veg,525
+Powdered Milk,Veg,496
+Powdered Sugar,Veg,389
+Protein Powder,Veg,411
+Raisins,Veg,474
+Rice Milk,Veg,49
+Rock Sugar,Veg,625
+Rolled Oats,Veg,384
+Rum,Veg,246
+Semolina Flour,Veg,350
+Sesame Seeds,Veg,573
+Shredded Coconut,Veg,501
+Sorbitol,Veg,375
+Soy Milk,Veg,41
+Soy Protein Powder,Veg,338
+Sprinkles,Veg,500
+Starch,Veg,381
+Strawberry Preserves,Veg,278
+Sucrose,Veg,387
+Sugar,Veg,405
+Sunflower Seeds,Veg,117
+Sweetened Condensed Milk,Veg,321
+Sweetener,Veg,360
+Unsalted Butter,Veg,717
+Vanilla Extract,Veg,288
+Vanilla Sugar,Veg,357
+Vegetable Oil,Veg,884
+Vegetable Shortening,Veg,884
+Walnuts,Veg,131
+Whole Milk,Veg,61
+Whole Wheat Flour,Veg,340
+Xylitol,Veg,240
+Yeast (dry),Veg,325
+Anchovy,Non Veg,131
+Bluefish,Non Veg,159
+Bream,Non Veg,135
+Butterfish,Non Veg,187
+amari,Non Veg,175
+Carp,Non Veg,162
+Caviar,Non Veg,264
+Clam,Non Veg,148
+Cod,Non Veg,105
+Crawfish,Non Veg,82
+Crayfish,Non Veg,87
+Eel,Non Veg,236
+Fish Fingers,Non Veg,290
+Fish Sticks,Non Veg,290
+Flounder,Non Veg,86
+Grouper,Non Veg,118
+Haddock,Non Veg,90
+Hake,Non Veg,71
+Halibut,Non Veg,111
+Herring,Non Veg,203
+Hoki,Non Veg,121
+Kipper,Non Veg,217
+Ling,Non Veg,109
+Lobster,Non Veg,89
+Mackerel,Non Veg,262
+Milkfish,Non Veg,190
+Monkfish,Non Veg,97
+Mullet,Non Veg,150
+Mussel,Non Veg,172
+Octopus,Non Veg,164
+Pickerel,Non Veg,111
+Pickled Herring,Non Veg,262
+Pike,Non Veg,113
+Plaice,Non Veg,91
+Pollack,Non Veg,111
+Red Snapper,Non Veg,128
+Redfish,Non Veg,94
+Rollmops,Non Veg,171
+Salmon,Non Veg,206
+Sardines,Non Veg,208
+Slops,Non Veg,111
+Scampi,Non Veg,84
+Sea Bass,Non Veg,124
+Shad,Non Veg,252
+Shark,Non Veg,130
+Smelt,Non Veg,124
+Sole,Non Veg,86
+Squid,Non Veg,92
+Sturgeon,Non Veg,135
+Sushi,Non Veg,150
+Swordfish,Non Veg,172
+Triggerfish,Non Veg,93
+Trout,Non Veg,190
+Tuna,Non Veg,132
+Tuna Salad,Non Veg,187
+Turbot,Non Veg,122
+Wahoo,Non Veg,167
+Whitefish,Non Veg,172
+Whiting,Non Veg,116
+Zander,Non Veg,84
+Almond Extract,Veg,374
+Anise,Veg,337
+Anise Seed,Veg,337
+Arrowroot,Veg,65
+Arugula,Veg,25
+Balsamic Vinegar,Veg,88
+Basil,Veg,233
+Black Pepper,Veg,251
+Black Sesame Seeds,Veg,573
+Broth,Veg,100
+Capers,Veg,23
+Caraway Seeds,Veg,333
+Cardamom,Veg,311
+Cassava,Veg,160
+Cayenne Pepper,Veg,318
+Chard,Veg,19
+Chicory Greens,Veg,23
+Chicory Roots,Veg,72
+Chili,Veg,282
+Chili Powder,Veg,282
+Chives,Veg,30
+Cider Vinegar,Veg,21
+Cilantro,Veg,23
+Cinnamon,Veg,247
+Cloves,Veg,274
+Coriander,Veg,23
+Cream of Tartar,Veg,258
+Cress,Veg,32
+Crystallized Ginger,Veg,335
+Cumin,Veg,375
+Cumin Seed,Veg,375
+Curry,Veg,325
+Dandelion,Veg,45
+Dill,Veg,43
+Dill Weed,Veg,43
+Fennel,Veg,31
+Fennel Seed,Veg,345
+Fenugreek,Veg,323
+Garlic,Veg,149
+Garlic Powder,Veg,331
+Garlic Salt,Veg,0
+Ginger,Veg,80
+Grape Leaves,Veg,93
+Ground Ginger,Veg,335
+Horseradish,Veg,48
+Hot Pepper,Veg,318
+Iodized Salt,Veg,0
+Jalapeno,Veg,13
+Juniper,Veg,45
+Lemon Grass,Veg,99
+Licorice,Veg,375
+Maggi,Veg,104
+Marjoram,Veg,271
+Minced Onion,Veg,40
+Mint,Veg,70
+Mustard Seed,Veg,508
+Nutmeg,Veg,525
+Okra,Veg,33
+Onion,Veg,40
+Onion Powder,Veg,341
+Orange Peel,Veg,97
+Oregano,Veg,265
+Paprika,Veg,282
+Parsley,Veg,36
+Parsnip,Veg,75
+Pepper,Veg,251
+Poppy Seed,Veg,525
+Poultry Seasoning,Veg,307
+Pumpkin Pie Spice,Veg,342
+Red Pepper,Veg,251
+Red Wine Vinegar,Veg,19
+Rosemary,Veg,131
+Saffron,Veg,310
+Sage,Veg,315
+Salt,Veg,0
+Savory,Veg,272
+Sea Salt,Veg,0
+Serrano Pepper,Veg,32
+Sesame Seeds,Veg,573
+Stevia,Veg,0
+Tamarind,Veg,239
+Taro,Veg,112
+Tarragon,Veg,295
+Thyme,Veg,276
+Turmeric,Veg,354
+Vanilla Bean,Veg,250
+Vanilla Extract,Veg,288
+Vinegar,Veg,18
+White Pepper,Veg,296
+Yam,Veg,118
+Apple Pie,Veg,237
+Apple Turnover,Veg,348
+Bagel,Veg,257
+Baguette,Veg,274
+Banana Bread,Veg,326
+Banana Nut Bread,Veg,326
+Beer Bread,Veg,227
+Biscuit,Veg,269
+Black Bread,Veg,250
+Bran Muffins,Veg,270
+Bread Pudding,Veg,153
+Breadsticks,Veg,400
+Brioche,Veg,346
+Brown Bread,Veg,246
+Brownies,Veg,405
+Bun,Veg,316
+Cannoli,Veg,254
+Caramel Cake,Veg,385
+Challah,Veg,283
+Chapati,Veg,240
+Ciabatta,Veg,271
+Cinnamon Bun,Veg,436
+Coffee Cake,Veg,418
+Conchas/Mexican Sweet Bread,Veg,353
+Cornbread,Veg,179
+Crepes,Veg,224
+Croissant,Veg,406
+Crumpet,Veg,178
+Cupcakes,Veg,305
+Donut/Doughnut,Veg,421
+Dosa,Veg,209
+Empanada,Veg,335
+English Muffin,Veg,227
+Flatbread,Veg,311
+Focaccia,Veg,249
+Garlic Bread,Veg,350
+Hot Dog Buns,Veg,279
+Italian Bread,Veg,271
+Latkes,Veg,189
+Matzo Bread,Veg,351
+Monkey Bread,Veg,290
+Muffin,Veg,296
+Multi-Grain Bread,Veg,265
+Naan,Veg,275
+Oatmeal Cookies,Veg,450
+Oatmeal Raisin Cookies,Veg,435
+Pan de Sal,Veg,293
+Pancake,Veg,233
+Pandesal,Veg,293
+Panettone,Veg,318
+Pide,Veg,268
+Pie,Veg,237
+Pita Bread,Veg,275
+Potato Bread,Veg,266
+Pretzel,Veg,338
+Pretzel Roll,Veg,338
+Puff Pastry,Veg,558
+Pumpernickel,Veg,250
+Raisin Bread,Veg,274
+Roll,Veg,316
+Roti,Veg,264
+Rye Bread,Veg,259
+Sandwich,Veg,304
+Sandwich Bread,Veg,251
+Scone,Veg,362
+Shortcrust Pastry,Veg,544
+Soda Bread,Veg,290
+Soufflé,Veg,204
+Sourdough Bread,Veg,289
+Spanakopita,Veg,246
+Spice Cake,Veg,332
+Sweet Rolls,Veg,333
+Swiss Roll,Veg,313
+Toast,Veg,261
+Tortilla,Veg,297
+Tortilla Bread,Veg,265
+White Bread,Veg,238
+Whole Wheat Bread,Veg,247
+1000 Island Dressing,Veg,370
+Ajvar,Veg,18
+Arrabiata Sauce,Veg,36
+Balsamic Vinaigrette Dressing,Veg,290
+Barbecue Sauce,Veg,150
+Bechamel Sauce,Veg,225
+Bernaise Sauce,Veg,414
+Blue  Veg Dressing,Veg,533
+Bolognese,Veg,106
+Buttermilk Ranch Dressing,Veg,533
+Caesar Dressing,Veg,429
+Catalina Dressing,Veg,282
+Chasseur Sauce,Veg,45
+Chili Sauce,Veg,112
+Cream Sauce,Veg,180
+Curry Ketchup,Veg,124
+Curry Sauce,Veg,26
+French Dressing,Veg,60
+Gravy,Veg,53
+Greek Dressing,Veg,467
+Hamburger Sauce,Veg,383
+Harissa,Veg,52
+Hollandaise Sauce,Veg,535
+Honey Mustard Dressing,Veg,464
+Horseradish,Veg,48
+Italian Dressing,Veg,293
+Ketchup,Veg,100
+Mayonnaise,Veg,692
+Mustard,Veg,60
+Mustard Sauce,Veg,645
+Orange Sauce,Veg,179
+Pesto,Veg,458
+Ranch Dressing,Veg,510
+Remoulade Sauce,Veg,635
+Russian Dressing,Veg,400
+Salad Dressing,Veg,449
+Sambal Oelek,Veg,21
+Sesame Ginger Dressing,Veg,464
+Sesame Paste,Veg,595
+Sour Cream,Veg,217
+Sour Cream Sauce,Veg,60
+Soy Sauce,Veg,67
+Sweet and Sour Sauce,Veg,179
+Tabasco,Veg,70
+Teriyaki Sauce,Veg,89
+Thai Curry Paste,Veg,155
+Tomato Paste,Veg,82
+Tomato Puree,Veg,38
+Tomato Sauce,Veg,24
+Tzatziki,Veg,94
+Vinaigrette,Veg,120
+Worcestershire Sauce,Veg,78
+ Veg Dressing,Veg,45
+Zesty Italian Dressing,Veg,267
+Almond Butter,Veg,614
+Apple Butter,Veg,173
+Applesauce,Veg,68
+Apricot Jam,Veg,250
+Blackberry Jam,Veg,250
+Blackcurrant Jam,Veg,250
+Blueberry Jam,Veg,250
+ Veg Spread,Veg,290
+Cherry Jam,Veg,250
+Chocolate Philadelphia,Veg,287
+Chocolate Spread,Veg,541
+Cream  Veg,Veg,342
+Egg,Veg,97
+Grape Jelly,Veg,255
+Honey,Veg,304
+Jelly,Veg,278
+Jif Peanut Butter,Veg,580
+Liverwurst,Veg,305
+Margarine,Veg,717
+Marmite,Veg,225
+Marshmallow Fluff,Veg,666
+Nutella,Veg,544
+Olive Spread,Veg,550
+"Pâté (720), Pate",Veg,319
+Peanut Butter,Veg,589
+Peter Pan Peanut Butter,Veg,609
+Philadelphia Cream  Veg,Veg,342
+Plum Jam,Veg,250
+Salted Butter,Veg,717
+Skippy Peanut Butter,Veg,594
+Smuckers Strawberry Jam,Veg,250
+Strawberry Jam,Veg,250
+Strawberry Jelly,Veg,250
+Sunbutter,Veg,617
+Sunflower Butter,Veg,617
+Tapenade,Veg,233
+Unsalted Butter,Veg,717
+Vegemite,Veg,180
+Wild Honey,Veg,286
